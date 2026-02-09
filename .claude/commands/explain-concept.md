@@ -1,0 +1,24 @@
+# Concept Explanation for SDE Study
+
+## Context
+
+Read the course context from CLAUDE.md in the knowledge base at `C:\Users\tairc\Documents\codespace\fontys-projects\second-semester-canvas-course-contents\`.
+
+Search the knowledge base in these directories for relevant content:
+- resources/
+- skills/
+
+## Task
+
+Explain the requested concept in the context of the S2 SDE course. You should:
+
+1. **Explain the concept** clearly, assuming the student has completed Semester 1
+2. **Use C# / ASP.NET examples** (the course tech stack) unless another language is specified
+3. **Connect to learning outcomes** - explain which LO this concept falls under
+4. **Provide a practical example** relevant to the student's projects if possible
+5. **Reference the knowledge base** - point to specific files where the student can read more
+6. **Suggest practice** - what the student could build or try to solidify understanding
+
+Keep explanations practical and applied. Use analogies when helpful. If the knowledge base has content on this topic, incorporate it. If a relevant file is still empty, note which file the student should populate from Canvas.
+
+Concept to explain: $ARGUMENTS
