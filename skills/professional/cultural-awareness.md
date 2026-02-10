@@ -1,19 +1,38 @@
 # Cultural Awareness
 
 > Source: Canvas > Professional Skills > Cultural Awareness
-> Last updated: _not yet extracted_
-> Status: draft
+> Last updated: 2026-02-10
+> Status: complete
 
-## Content
-<!--
-  HOW TO FILL THIS FILE:
-  1. Open this page in Canvas (fhict.instructure.com)
-  2. Select all content on the page (Ctrl+A)
-  3. Paste it below this comment
-  4. Clean up formatting if needed (fix headers, lists, links)
-  5. Remove this instruction comment
-  6. Update "Last updated" date and set Status to "complete"
--->
+# 🌍 Cultural Awareness
 
-## Key Takeaways
-<!-- After pasting content, note the 3-5 most important points for quick reference -->
+Understanding and appreciating diverse cultural perspectives in global teams
+
+![1770711654813](images/1770711654813.png)
+
+**🎯 Learning Connection:** Cultural awareness is essential for **Learning Outcome 5: Professional Standard** – improving communication, stakeholder interaction, and team collaboration in international environments.
+
+## 🤔 What is Cultural Awareness?
+
+Cultural awareness involves **understanding and appreciating** the diverse cultural backgrounds and perspectives of your peers. It means recognizing the differences and similarities between cultures and being aware of how cultural influences shape individuals' behaviors, values, and communication styles.
+
+## 🎯 Why Cultural Awareness Matters
+
+- International education context
+- Global ICT career reality
+- Stronger communication and collaboration
+
+## 🛠️ 4-Step Development Process
+
+1. **Participate in Cultural Activities**  
+   Engage in workshops and activities that expose you to different cultures.
+
+2. **Interact with Diverse Peers**  
+   Form diverse project groups and build friendships across cultures.
+
+3. **Practice Cross-Cultural Communication**  
+   Apply strategies such as acknowledging biases, practicing flexibility, slowing down, assuming positive intent, using D.I.E. (Describe–Interpret–Evaluate), and listening empathically.
+
+4. **Reflection & Documentation**  
+   Reflect on your own cultural background and biases, and document experiences and insights in your portfolio.
+

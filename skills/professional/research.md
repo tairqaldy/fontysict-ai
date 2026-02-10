@@ -1,19 +1,52 @@
 # Research
 
 > Source: Canvas > Professional Skills > Research
-> Last updated: _not yet extracted_
-> Status: draft
+> Last updated: 2026-02-10
+> Status: complete
 
-## Content
-<!--
-  HOW TO FILL THIS FILE:
-  1. Open this page in Canvas (fhict.instructure.com)
-  2. Select all content on the page (Ctrl+A)
-  3. Paste it below this comment
-  4. Clean up formatting if needed (fix headers, lists, links)
-  5. Remove this instruction comment
-  6. Update "Last updated" date and set Status to "complete"
--->
+# 🔬 Research
 
-## Key Takeaways
-<!-- After pasting content, note the 3-5 most important points for quick reference -->
+Evidence-based problem solving using the DOT framework
+
+**🎯 Learning Connection:** Research skills are fundamental to **Learning Outcome 5: Professional Standard** – using reliable sources to support your decisions and validate information using standard methods.
+
+## 🤔 What is ICT Research?
+
+ICT research is a systematic investigation to solve complex technical problems. It involves gathering evidence, evaluating solutions, and making informed decisions that align the best technological approaches with specific business contexts and user needs.
+
+## 🎯 Why Research is Critical in ICT
+
+- Informed decision making
+- Innovation and problem solving
+- Context-specific solutions
+- Professional development
+
+## 🔬 The DOT Framework Introduction
+
+The DOT framework guides systematic ICT research and helps you choose appropriate methods.
+
+Key reference: `https://ictresearchmethods.nl/`
+
+## 🎯 Identifying Research Opportunities
+
+Examples:
+
+- Problem understanding research
+- Requirements research
+- Implementation research
+- Validation research
+
+## 🛠️ Research Method Selection
+
+Balance **effort** (time, complexity, resources) and **value** (insights, relevance, impact). Discuss choices with your teacher.
+
+## 📋 Portfolio Assignment: Research Documentation
+
+Document:
+
+1. Problem context
+2. Desired outcome
+3. Implementation strategy
+4. Knowledge gaps
+5. Research methodology and chosen DOT methods
+

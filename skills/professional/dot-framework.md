@@ -1,19 +1,27 @@
 # Reviewing Research using DOT Framework
 
 > Source: Canvas > Professional Skills > Reviewing Research using DOT framework
-> Last updated: _not yet extracted_
-> Status: draft
+# Reviewing Research using DOT Framework
 
-## Content
-<!--
-  HOW TO FILL THIS FILE:
-  1. Open this page in Canvas (fhict.instructure.com)
-  2. Select all content on the page (Ctrl+A)
-  3. Paste it below this comment
-  4. Clean up formatting if needed (fix headers, lists, links)
-  5. Remove this instruction comment
-  6. Update "Last updated" date and set Status to "complete"
--->
+> Source: Canvas > Professional Skills > Reviewing Research using DOT framework
+> Last updated: 2026-02-10
+> Status: complete
 
-## Key Takeaways
-<!-- After pasting content, note the 3-5 most important points for quick reference -->
+# 🔄 Research Review & Analysis
+
+Reflecting on your research journey using the DOT framework
+
+**🎯 Learning Connection:** Research reflection enhances **Learning Outcome 5: Professional Standard** by demonstrating how you validate sources, apply standard research methods, and make evidence-based decisions in your projects.
+
+## 🤔 What is Research Review & Analysis?
+
+Research review involves systematically reflecting on the research you've conducted, mapping your activities to the DOT framework domains, and articulating how your research methods contributed to project outcomes.
+
+## 🛠️ 5-Step Research Review Process
+
+1. **Activity Inventory** – list your project and research activities.  
+2. **DOT Framework Mapping** – connect activities to DOT methods (see `https://ictresearchmethods.nl/`).  
+3. **Reflective Analysis** – describe purpose, method selection, impact, and learning.  
+4. **Gap Analysis & Future Planning** – identify where further research would help.  
+5. **Portfolio Integration** – document research overview, methods, impact, and reflection.
+
