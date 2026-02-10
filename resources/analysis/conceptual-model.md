@@ -1,19 +1,75 @@
 # Conceptual Model (ERD)
 
 > Source: Canvas > Resources > Analysis > Conceptual Model (ERD)
-> Last updated: _not yet extracted_
-> Status: draft
+> Last updated: 2026-02-10
+> Status: complete
 
-## Content
-<!--
-  HOW TO FILL THIS FILE:
-  1. Open this page in Canvas (fhict.instructure.com)
-  2. Select all content on the page (Ctrl+A)
-  3. Paste it below this comment
-  4. Clean up formatting if needed (fix headers, lists, links)
-  5. Remove this instruction comment
-  6. Update "Last updated" date and set Status to "complete"
--->
+# 🗺️ Conceptual Model (EER)
 
-## Key Takeaways
-<!-- After pasting content, note the 3-5 most important points for quick reference -->
+Creating a domain model that speaks the client's language
+
+## 🎯 What is a Conceptual Model?
+
+**💡 Key Purpose:** A conceptual model serves as a discussion tool with the client and contains no technical details, but rather uses **"the language of the client."**
+
+It is useful to create a conceptual model early in the project to structure the application's domain. This model bridges the gap between business requirements and technical implementation.
+
+### What to Include:
+
+#### 📦 Entities
+
+The main "things" or objects in the domain (e.g., Customer, Product, Order)
+
+#### 🔗 Relationships
+
+How entities connect to each other (e.g., Customer places Order)
+
+#### 🏷️ Main Attributes
+
+Key properties relevant to the application (e.g., Customer name, Product price)
+
+### What to Avoid at This Stage:
+
+**⚠️ Keep It Non-Technical:** Avoid making technical decisions such as:
+
+* "What type should each attribute have?"
+* "How will this be stored in the database?"
+* "Which system behaviours belong to which entity?"
+
+## 📊 EER Example
+
+**📘 Example:** Below is an Enhanced Entity-Relationship (EER) diagram showing entities, relationships, and key attributes in a client-friendly format.
+
+![1770647377453](../analysis/images/1770647377453.png)
+
+Once you have created a conceptual model, you will have a solid analysis of the client domain, allowing you to start translating these requirements into a technical solution.
+
+## 🌐 Optional: Context Diagram
+
+**💡 Additional Tool:** A context diagram can complement your conceptual model by showing how your application interacts with external systems and actors.
+
+In addition to a conceptual model, such as an EER, it can also be useful to include a context diagram. This diagram depicts how the application 'interacts' with external systems and the actors.
+
+### What a Context Diagram Shows:
+
+* **Users:** Who will interact with the system
+* **External APIs:** Third-party services the application uses
+* **Hardware/Software:** Other systems that interact with your application
+* **High-level view:** Your application as a "black box" with external collaborators
+
+![1770647401356](../analysis/images/1770647401356.png)
+
+## 📚 Learning Resources
+
+**💡 Pro Tip:** Start with the presentation to understand the fundamentals, then explore the additional resources for deeper understanding of different EER notations.
+
+#### 📖 Conceptual Model Resources
+
+* `https://fhict.instructure.com/courses/15759/files/2576972`
+* `https://www.softwareideas.net/chen-er-diagram-erd`
+* `https://www.geeksforgeeks.org/enhanced-er-model/`
+
+#### 🌐 Context Diagram Resources
+
+* `https://c4model.com/diagrams/system-context`
+
