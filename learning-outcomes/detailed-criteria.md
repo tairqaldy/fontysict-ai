@@ -1,0 +1,142 @@
+> Source: Canvas > First 2 weeks: Jumpstart > Further clarification on learning outcomes
+> Last updated: 2026-02-10
+> Status: complete
+
+# Further clarification on learning outcomes
+
+# 🎯 Learning Outcomes
+
+Detailed clarification and requirements for S2 Software Engineering
+
+**📋 Purpose:** These learning outcomes define what you need to demonstrate to successfully complete the Software Design & Engineering semester. Each outcome includes specific clarifications and requirements to guide your learning journey.
+
+## 1📊 Learning Outcome 1: Analysis
+
+**You analyze and document validated user specifications based on stakeholder feedback and according to a standard method for simple, non-distributed applications.**
+
+#### 👥User Specifications
+
+You gather and validate the requirements stakeholders place on the application. These specifications are prioritized based on their value to the stakeholders.
+
+#### 📋Documenting Specifications
+
+You document these specifications in an analysis document and ensure they are validated by stakeholders, for example through acceptance tests.
+
+## 2🎨 Learning Outcome 2: Design
+
+**You methodically translate validated user specifications into software and database designs, considering maintainability and security. You are able to justify your choices.**
+
+#### 🏗️Software and Database Designs
+
+You create technical designs (such as architecture diagrams, domain models, and database designs) using appropriate standard notation methods, accurately translating the specifications into technical solutions.
+
+#### 🔒Maintainable and Secure
+
+The design is flexible, considering scalability, security, and future changes.
+
+## 3💻 Learning Outcome 3: Implementation
+
+**You build and deliver multiple secure and maintainable applications (at least one of which is web-based) in an iterative software development process. In your code, you apply relevant software principles to ensure maintainability and security. You use a relational database for persistence of the data relevant to your application.**
+
+#### 🔄Iterative Software Development Process
+
+You develop applications by iteratively building, extending, and maintaining them, based on the technical design (LO 2) and validated stakeholder specifications (LO 1).
+
+#### ⚙️Relevant Software Principles
+
+You apply standard software development principles, such as OO principles and SOLID, in the design and implementation of the application. You can explain how the chosen principles contribute to a maintainable and secure application.
+
+#### 🗄️Database
+
+You integrate a relational database into the application and ensure it communicates efficiently and securely with the software.
+
+## 4📋 Learning Outcome 4: Managing
+
+**You use techniques such as version control, (automated) testing, and an iterative process to improve the quality of your code. You can explain how the chosen techniques contribute to this improvement.**
+
+#### 📝Version Control
+
+You use a version control system (such as Git) to manage changes without disrupting existing functionality.
+
+#### 🧪Testing
+
+You define and execute tests (such as unit tests, integration tests, and acceptance tests) to ensure the functionality and stability of the software.
+
+#### 🔄Iterative Process
+
+You continuously improve code quality through small incremental changes and testing.
+
+## 5🏢 Learning Outcome 5: Professional Standard
+
+**You apply professional practice, both individually and in teams, in the areas of project organisation, communication with stakeholders, exploratory research*, and reporting.**
+
+#### 📊Project Organization
+
+You collaborate functionally with your group and involved stakeholders (clients and teachers) in an iterative process to reach a common end result. You take initiative to continuously improve the collaboration process.
+
+#### 💬Communication
+
+You hold regular, goal-oriented meetings with your team. You proactively keep stakeholders informed about the process, progress, and decisions made. You ensure communication is appropriate to the relationship with the involved parties.
+
+#### 🔍Exploratory Research
+
+You use reliable and relevant sources to support your decisions. You validate sources for reliability and relevance to the project using a standard method.
+
+**📝 Associate Degree Note:** [Action-oriented research](../extra/associate-degree.md) applies for Associate Degree students.
+
+#### 📄Reporting
+
+You provide stakeholders with 'artifacts'. Artifacts may include analysis documents, design documentation, code, and working software. Documentation is complete, compact, concrete, spell-checked, and tailored to the involved stakeholders.
+
+## 6🌟 Learning Outcome 6: Personal Leadership
+
+**You take the initiative in asking for, and reflecting on, feedback. You identify your own core values as the basis for your study career and professional development.**
+
+#### 🔄Feedback and Reflection
+
+You regularly reflect on your progress by seeking feedback from team members and stakeholders (such as clients and teachers). You improve your work based on received feedback and your own critical reflection.
+
+### 🎯 Learning Outcomes at a Glance
+
+#### 1. Analysis
+
+Gather & document user requirements
+
+#### 2. Design
+
+Create maintainable & secure designs
+
+#### 3. Implementation
+
+Build iterative, principled applications
+
+#### 4. Managing
+
+Use version control, testing & iteration
+
+#### 5. Professional Standard
+
+Apply professional practices
+
+#### 6. Personal Leadership
+
+Seek feedback & reflect on growth
+
+### 📚Related Resources
+
+**📂 Portfolio Creation:**
+[Learn to showcase your work](../portfolio/creating-a-portfolio.md)
+
+**✅ Assessment Guide:**
+[Understand the assessment process](../course-info/assessment.md)
+
+**🍽️ Workshop Schedule:**
+[Find workshops to support your learning](../course-info/workshop-schedule.md)
+
+### Ready to Demonstrate Your Learning?
+
+Use these learning outcomes to guide your projects and portfolio development.
+
+[Build Your Portfolio](../portfolio/creating-a-portfolio.md)
+[Assessment Process](../course-info/assessment.md)
+

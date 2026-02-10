@@ -1,29 +1,146 @@
 # Introduction to Learning Outcomes
 
 > Source: Canvas > First 2 weeks: Jumpstart > Introduction to Learning Outcomes
-> Last updated: _not yet extracted_
-> Status: draft
+> Last updated: 2026-02-10
+> Status: complete
 
-## Learning Outcomes List
-<!-- Paste each learning outcome with its description below -->
-<!-- Suggested format per outcome:
+# 🚀 Introduction to Learning Outcomes
 
-### LO-1: [Name]
-**Description:** ...
-**What this means in practice:** ...
-**Evidence you can show:** ...
+Begin with the end in mind - understand your learning goals
 
-### LO-2: [Name]
-...
--->
+**Begin with the end in mind.**
 
-## How Learning Outcomes Connect to Assessment
-<!-- Paste any mapping between LOs and assessment criteria -->
+— Stephen Covey
 
-## Key Takeaways
-<!-- After pasting, note the most important points -->
+### 📚What Will You Learn?
 
-## Related Files
-- [Assessment](../course-info/assessment.md)
-- [Portfolio Manual](../portfolio/portfolio-manual.md)
-- [Creating a Portfolio](../portfolio/creating-a-portfolio.md)
+In this workshop, you'll explore the 6 learning outcomes that define your journey in Software Design & Engineering. You'll understand what each outcome means and how to demonstrate mastery.
+
+[📋 View Learning Outcomes](detailed-criteria.md)
+
+### 🎯Why Does This Matter?
+
+If we know and understand the learning outcomes, we can define goals for ourselves and act with focused intention. This clarity helps you make better decisions about your projects and portfolio.
+
+### 🛠️How Will You Do This?
+
+Through a structured 4-part workshop process, you'll read, discuss, analyze, and plan with your peers and teachers to truly understand what success looks like.
+
+## 📋 4-Part Workshop Process
+
+1
+
+#### 📖 Read & Understand
+
+Read the learning outcomes and their detailed clarifications to build foundational understanding.
+
+ **📚 Resources:** 
+ * [Learning Outcomes Overview](detailed-criteria.md)
+ * Individual reflection time
+
+2
+
+#### 👥 Discuss in Groups
+
+Work in groups of around 6 students (preferably your group project team) to unravel the learning outcomes together.
+
+ **💭 Discussion Questions:** 
+ * **Explain:** Can you explain the learning outcome in your own words?
+ * **Demonstrate:** How can you demonstrate this learning outcome?
+ * **Evidence:** What kind of products could you use as evidence in your portfolio?
+ * **Situations:** In what kind of situations could you show this?
+ * **Behavior:** What behavior would you expect in practice?
+
+3
+
+#### 📂 Analyze Examples
+
+Discuss examples of evidence from previous semesters and relate them to specific learning outcomes.
+
+ **🔍 Analysis Focus:** 
+ * Review concrete examples from past work
+ * Map examples to specific learning outcomes
+ * Identify what makes evidence strong vs. weak
+ * Understand quality expectations
+
+4
+
+#### 👨‍🏫 Teacher Discussion
+
+Share insights with your group and teachers to clarify understanding and set expectations.
+
+ **🎯 Outcomes:** 
+ * Clarify any misunderstandings
+ * Get teacher perspective on expectations
+ * Align group understanding
+ * Plan next steps for your learning journey
+
+### 🎯 The 6 Learning Outcomes - Quick Overview
+
+#### 1. 📊 Analysis
+
+Gather and document validated user specifications
+
+#### 2. 🎨 Design
+
+Create maintainable and secure software designs
+
+#### 3. 💻 Implementation
+
+Build applications using iterative development
+
+#### 4. 📋 Managing
+
+Use version control, testing, and iteration
+
+#### 5. 🏢 Professional
+
+Apply professional practices in teams
+
+#### 6. 🌟 Leadership
+
+Seek feedback and reflect on growth
+
+### 💡Workshop Success Tips
+
+✓**Come Prepared:** Read the learning outcomes beforehand so you can participate meaningfully
+
+✓**Ask Questions:** Don't hesitate to ask for clarification - that's the point of the workshop
+
+✓**Think Practically:** Focus on concrete examples and real portfolio evidence
+
+✓**Take Notes:** Document key insights and specific examples for future reference
+
+### 🚀After the Workshop
+
+Once you understand the learning outcomes, you'll be ready to dive into planning and iterations - the foundation of successful software development.
+
+[Continue to Planning & Iterations](../skills/professional/planning-iterations.md)
+
+### 📚 Related Resources
+
+#### 📋 Detailed Outcomes
+
+Full clarification of all 6 learning outcomes with specific requirements.
+
+[View Detailed Guide →](detailed-criteria.md)
+
+#### ✅ Assessment Process
+
+Understand how you'll be assessed on these learning outcomes.
+
+[Assessment Guide →](../course-info/assessment.md)
+
+#### 📂 Portfolio Creation
+
+Learn how to showcase your learning outcomes in your portfolio.
+
+[Portfolio Guide →](../portfolio/creating-a-portfolio.md)
+
+### Ready to Begin with the End in Mind?
+
+Start your learning journey with clear understanding of your goals!
+
+[Explore Learning Outcomes](detailed-criteria.md)
+[Next: Planning & Iterations](../skills/professional/planning-iterations.md)
+
