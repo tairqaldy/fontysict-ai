@@ -1,19 +1,75 @@
 # Functional & Non-Functional Requirements
 
 > Source: Canvas > Resources > Analysis > Functional & Non-Functional Requirements
-> Last updated: _not yet extracted_
-> Status: draft
+> Last updated: 2026-02-10
+> Status: complete
 
-## Content
-<!--
-  HOW TO FILL THIS FILE:
-  1. Open this page in Canvas (fhict.instructure.com)
-  2. Select all content on the page (Ctrl+A)
-  3. Paste it below this comment
-  4. Clean up formatting if needed (fix headers, lists, links)
-  5. Remove this instruction comment
-  6. Update "Last updated" date and set Status to "complete"
--->
+# 📋 Functional & Non-Functional Requirements
 
-## Key Takeaways
-<!-- After pasting content, note the 3-5 most important points for quick reference -->
+Understanding the what and how of system requirements
+
+## 🎯 Functional Requirements
+
+**💡 Key Concept:** Functional requirements specify **what** a system **should do**.
+
+### Characteristics of Functional Requirements:
+
+* Specific and clear actions the system must perform
+* Often written in terms of "The system shall..." or "The system must..."
+* Directly measurable or testable to confirm they work as intended
+
+## ⚡ Non-Functional Requirements
+
+**📘 Key Concept:** Non-functional requirements define **how** a system **should perform**.
+
+### Characteristics of Non-Functional Requirements:
+
+* Often related to quality attributes such as speed, reliability, security, and usability
+* Not specific to particular features but apply to the system as a whole
+* Typically measurable through standards or performance benchmarks (e.g., response time, uptime percentage)
+
+**⚠️ Important Note:** Requirements should be specific! "The system should perform good enough" is **not** a proper non-functional requirement.
+
+## 🛒 Practical Example: Online Shopping Platform
+
+### 🎯 Functional Requirements
+
+* Users must be able to search for products using keywords
+* Users can add items to a shopping cart and proceed to checkout
+
+### ⚡ Non-Functional Requirements
+
+* The search results should be displayed within 1 second for the first 1000 products
+* The checkout process should be accessible on both desktop and mobile devices
+
+## 🔧 Understanding Requirements in Practice
+
+Whether you're working on a small project on your own, or a large, multidisciplinary project for a big company, everything hinges on having good requirements. That's why it's essential to have an overview of what the application needs to accomplish.
+
+**💡 Pro Tip:** Look back at your one-slide idea and project description. Ideally, you have already described the purpose of your project there. This is a good starting point for thinking about and formulating your requirements.
+
+### Three Elements of Requirements:
+
+#### 📋 Requirement
+
+The behaviour that the system must exhibit.
+
+#### 🔒 Constraints
+
+Further refinement of the observable behaviour of the system (think of input limitations or things that are or are not allowed).
+
+#### ⭐ Quality Criteria
+
+General requirements for the system, usually not restrictions on behaviour, but the way in which the behaviour is presented (for example, sorting a list in ascending or descending order).
+
+## 📚 Additional Resources
+
+**💡 Pro Tip:** Use multiple sources to deepen your understanding of requirements gathering and documentation.
+
+### 📖 Study Materials
+
+* **Dutch Resource:** `https://rubensteins.github.io/s2-db-documentatie/Onderwerpen/Requirements` (NL)
+* **Web Search:** search for "Functional & Non-Functional Requirements"
+* **AI Assistant Prompt:**  
+  `"Explanation and examples of functional vs. non-functional requirements for Fontys HBO Student in Semester 2 Software"`
+
