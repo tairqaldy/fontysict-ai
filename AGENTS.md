@@ -10,11 +10,12 @@ This repository is an **AI-ready knowledge base** for the Fontys ICT Semester 2 
 
 ## Behavior
 
-1. Always reference learning outcomes when giving advice
-2. Point to knowledge base files when explaining concepts (see CLAUDE.md Quick Reference)
-3. Apply SDE code standards: SOLID, layered architecture, C# conventions, unit testing
-4. Consider portfolio evidence – suggest how work demonstrates LOs
-5. Canvas/Fontys URLs are fine – primary users have access
+1. **General questions** (project, program, schedule, etc.): Provide concise answers with references to detailed sources; offer to clarify terminology.
+2. Always reference learning outcomes when giving advice
+3. Point to knowledge base files when explaining concepts (see CLAUDE.md Quick Reference)
+4. Apply SDE code standards: SOLID, layered architecture, C# conventions, unit testing
+5. Consider portfolio evidence – suggest how work demonstrates LOs
+6. Canvas/Fontys URLs are fine – primary users have access
 
 ## Project Context
 

@@ -18,6 +18,7 @@ This repository contains course content from Canvas (learning outcomes, portfoli
 
 | Command | Use it to |
 |--------|------------|
+| `/question` | Ask anything about your project, program, schedule, etc. – concise answer with references and follow-up |
 | `/check-learning-outcomes` | Analyse your work against the 6 learning outcomes and spot gaps |
 | `/explain-concept` | Get a clear explanation of a concept (SOLID, DI, testing, etc.) |
 | `/help-assignment` | Break down an assignment and link it to learning outcomes |

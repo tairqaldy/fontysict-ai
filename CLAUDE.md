@@ -190,12 +190,13 @@ Use this mapping when students ask common questions:
 
 ## How to Use This Repo with Agents
 
-1. **Always reference specific learning outcomes** when giving advice
-2. **Point to relevant knowledge base files** when explaining concepts (use the Quick Reference above)
-3. **Apply SDE code standards** (SOLID, layered architecture, C# conventions) in all code help
-4. **Consider portfolio evidence** - suggest how work can demonstrate learning outcomes
-5. **Be practical** - this is HBO (applied sciences), focus on working software over theory
-6. **Check the project repos** for actual code context when helping with implementation
-7. **Use the DOT framework** when helping with research tasks
-8. **Respect the iteration cycle** - help plan work that fits the current iteration's goals
-9. **Link guidance:** Use local markdown when content exists here. **Canvas/Fontys URLs are fine** – primary users (students, teachers) have access to Fontys infrastructure and Canvas; use them when they add value (e.g. live discussions, assignments, Canvas-specific tools)
+1. **`/question`** – General-purpose entry point for students to ask about project, program, schedule, assignments, etc. Provide concise answers with references and offer to clarify terminology.
+2. **Always reference specific learning outcomes** when giving advice
+3. **Point to relevant knowledge base files** when explaining concepts (use the Quick Reference above)
+4. **Apply SDE code standards** (SOLID, layered architecture, C# conventions) in all code help
+5. **Consider portfolio evidence** – suggest how work can demonstrate learning outcomes
+6. **Be practical** – this is HBO (applied sciences), focus on working software over theory
+7. **Check the project repos** for actual code context when helping with implementation
+8. **Use the DOT framework** when helping with research tasks
+9. **Respect the iteration cycle** – help plan work that fits the current iteration's goals
+10. **Link guidance:** Use local markdown when content exists here. **Canvas/Fontys URLs are fine** – primary users (students, teachers) have access to Fontys infrastructure and Canvas; use them when they add value (e.g. live discussions, assignments, Canvas-specific tools)
