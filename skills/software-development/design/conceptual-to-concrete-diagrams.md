@@ -1,19 +1,20 @@
 # How to go from a conceptual diagram to concrete diagrams for implementation purposes?
 
 > Source: Canvas > Software Development Skills > Design
-> Last updated: _not yet extracted_
-> Status: draft
+> Last updated: 2026-02-10
+> Status: complete
 
-## Content
-<!--
-  HOW TO FILL THIS FILE:
-  1. Open this page in Canvas (fhict.instructure.com)
-  2. Select all content on the page (Ctrl+A)
-  3. Paste it below this comment
-  4. Clean up formatting if needed (fix headers, lists, links)
-  5. Remove this instruction comment
-  6. Update "Last updated" date and set Status to "complete"
--->
+# 🏗️ From Concept to Code
 
-## Key Takeaways
-<!-- After pasting content, note the 3-5 most important points for quick reference -->
+Transform abstract ideas into concrete implementation blueprints
+
+**🎯 The Challenge:** You've analyzed the problem and created a conceptual model. Now how do you bridge the gap between abstract understanding and actual implementation?
+
+![1770714950625](images/1770714950625.png)
+
+## 🛤️ The Implementation Journey
+
+1. **Conceptual Understanding** – what entities exist, how they relate, and what the business logic is.  
+2. **Data Design (ERD)** – how you will structure and store the data.  
+3. **Code Design (Class Diagram)** – how you will structure the code and responsibilities.  
+

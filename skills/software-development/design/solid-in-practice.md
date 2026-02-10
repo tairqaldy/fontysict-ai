@@ -1,19 +1,24 @@
 # How can SOLID help with designing maintainable code?
 
 > Source: Canvas > Software Development Skills > Design
-> Last updated: _not yet extracted_
-> Status: draft
+> Last updated: 2026-02-10
+> Status: complete
 
-## Content
-<!--
-  HOW TO FILL THIS FILE:
-  1. Open this page in Canvas (fhict.instructure.com)
-  2. Select all content on the page (Ctrl+A)
-  3. Paste it below this comment
-  4. Clean up formatting if needed (fix headers, lists, links)
-  5. Remove this instruction comment
-  6. Update "Last updated" date and set Status to "complete"
--->
+# How can SOLID help with designing maintainable code?
 
-## Key Takeaways
-<!-- After pasting content, note the 3-5 most important points for quick reference -->
+# 🧱 SOLID Principles in Practice
+
+Transform rigid code into flexible, maintainable software architecture
+
+![1770716525627](images/1770716525627.png)
+
+**🎯 Workshop Goal:** Master the 5 SOLID principles by refactoring real code. Learn to identify violations, understand their impact, and apply solutions that make your code maintainable, extensible, and testable.
+
+## SOLID Overview
+
+- **S** – Single Responsibility  
+- **O** – Open/Closed  
+- **L** – Liskov Substitution  
+- **I** – Interface Segregation  
+- **D** – Dependency Inversion  
+

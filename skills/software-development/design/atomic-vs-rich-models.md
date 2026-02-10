@@ -1,19 +1,28 @@
 # How do anemic models compare to rich models?
 
 > Source: Canvas > Software Development Skills > Design
-> Last updated: _not yet extracted_
-> Status: draft
+> Last updated: 2026-02-10
+> Status: complete
 
-## Content
-<!--
-  HOW TO FILL THIS FILE:
-  1. Open this page in Canvas (fhict.instructure.com)
-  2. Select all content on the page (Ctrl+A)
-  3. Paste it below this comment
-  4. Clean up formatting if needed (fix headers, lists, links)
-  5. Remove this instruction comment
-  6. Update "Last updated" date and set Status to "complete"
--->
+# How do anemic models compare to rich models?
 
-## Key Takeaways
-<!-- After pasting content, note the 3-5 most important points for quick reference -->
+# 🧠 Anemic vs Rich Domain Models
+
+Master the art of domain modeling and choose the right approach for your context
+
+![1770716600421](images/1770716600421.png)
+
+**🎯 Workshop Goal:** Understand both anemic and rich domain models, their trade-offs, and when to use each.
+
+## Anemic Domain Model
+
+- Data containers with getters/setters  
+- Business logic in services  
+- Simpler to understand, closer to procedural code  
+
+## Rich Domain Model
+
+- Encapsulates both data and behavior  
+- Business logic lives inside domain objects  
+- Better for complex domains and DDD-style designs  
+

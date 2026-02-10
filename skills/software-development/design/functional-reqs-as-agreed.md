@@ -1,19 +1,20 @@
 # How to ensure the functional requirements are implemented as agreed?
 
 > Source: Canvas > Software Development Skills > Design
-> Last updated: _not yet extracted_
-> Status: draft
+> Last updated: 2026-02-10
+> Status: complete
 
-## Content
-<!--
-  HOW TO FILL THIS FILE:
-  1. Open this page in Canvas (fhict.instructure.com)
-  2. Select all content on the page (Ctrl+A)
-  3. Paste it below this comment
-  4. Clean up formatting if needed (fix headers, lists, links)
-  5. Remove this instruction comment
-  6. Update "Last updated" date and set Status to "complete"
--->
+# How to ensure the functional requirements are implemented as agreed?
 
-## Key Takeaways
-<!-- After pasting content, note the 3-5 most important points for quick reference -->
+# ✅ Validation & Acceptance Testing
+
+Ensure your implementation matches stakeholder expectations
+
+**🎯 Workshop Goal:** Master User Acceptance Testing (UAT) as the bridge between requirements and reality. Learn to create test cases that validate your implementation against stakeholder expectations.
+
+## 🔍 Why Acceptance Testing Matters
+
+- Stakeholder validation  
+- Risk mitigation  
+- Clear documentation of test coverage and results  
+

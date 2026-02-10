@@ -1,19 +1,27 @@
 # Relational Database Design
 
 > Source: Canvas > Software Development Skills > Design
-> Last updated: _not yet extracted_
-> Status: draft
+> Last updated: 2026-02-10
+> Status: complete
 
-## Content
-<!--
-  HOW TO FILL THIS FILE:
-  1. Open this page in Canvas (fhict.instructure.com)
-  2. Select all content on the page (Ctrl+A)
-  3. Paste it below this comment
-  4. Clean up formatting if needed (fix headers, lists, links)
-  5. Remove this instruction comment
-  6. Update "Last updated" date and set Status to "complete"
--->
+# Relational Database Design
 
-## Key Takeaways
-<!-- After pasting content, note the 3-5 most important points for quick reference -->
+# 🗄️ Relational Database Design
+
+Transform your data models into robust, scalable database schemas
+
+**🎯 Workshop Goal:** Design database schemas that support your app’s data needs while ensuring performance, integrity, and scalability.
+
+## Why Database Design Matters
+
+- Performance & scalability  
+- Data integrity & security  
+- Cost efficiency  
+
+## Design Principles
+
+- Normalize to reduce redundancy  
+- Use primary and foreign keys correctly  
+- Plan indexes for key queries  
+- Choose appropriate data types  
+
