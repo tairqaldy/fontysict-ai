@@ -16,24 +16,42 @@ This is a knowledge base extracted from Canvas LMS for the S2 SDE course at Font
 
 ## Learning Outcomes
 
-<!-- PRIORITY: Update this section with exact LO descriptions from learning-outcomes/overview.md once extracted -->
+The S2 SDE course assesses students on these 6 learning outcomes:
 
-The S2 SDE course assesses students on these learning outcome areas:
+| LO | Name | Definition (condensed) |
+|----|------|------------------------|
+| **1** | Analysis | Analyze and document validated user specifications based on stakeholder feedback and according to a standard method for simple, non-distributed applications. |
+| **2** | Design | Methodically translate validated user specifications into software and database designs, considering maintainability and security. Justify your choices. |
+| **3** | Implementation | Build and deliver multiple secure and maintainable applications (at least one web-based) iteratively. Apply OOP and SOLID principles. Use a relational database for persistence. |
+| **4** | Managing | Use version control, (automated) testing, and an iterative process to improve code quality. Explain how chosen techniques contribute to improvement. |
+| **5** | Professional Standard | Apply professional practice in project organisation, communication with stakeholders, exploratory research, and reporting. |
+| **6** | Personal Leadership | Take the initiative in asking for and reflecting on feedback. Identify core values as the basis for study career and professional development. |
 
-1. **Analysis** - Requirements engineering, use cases, conceptual modeling
-2. **Design** - Architecture (layered), OOP, SOLID, class diagrams, database design
-3. **Implementation** - Clean code in C#/ASP.NET, database implementation, unit testing
-4. **Manage & Control** - Git, debugging, deployment
-5. **Professional Skills** - Planning, feedback, research (DOT framework), documentation
+**Full definitions and clarifications:** [learning-outcomes/detailed-criteria.md](learning-outcomes/detailed-criteria.md)
 
-## Assessment Structure
+## Rubric
 
-- Portfolio-based assessment with 3 review iterations + final delivery
-- Each iteration reviews progress on learning outcomes
-- Final assessment grades all learning outcomes
-- Must demonstrate evidence across Individual Project and Group Project
+| Level | Name | Meaning |
+|-------|------|---------|
+| 0 | Undefined | No evidence or not yet assessed |
+| 1 | Orienting | Beginning to understand; limited evidence |
+| 2 | Beginning | Developing capability; partial evidence |
+| 4 | Proficient | Meets expectations; sufficient evidence |
+| 5 | Advanced | Exceeds expectations; strong evidence |
 
-<!-- PRIORITY: Update with exact dates, criteria, and rubric from course-info/assessment.md -->
+**Assessment guarantee:** If you achieve at least **Proficient** on all learning outcomes at the end of the semester, you are guaranteed a **Satisfactory** grade or better (USGO scale).
+
+## Assessment Structure & Dates (S2 2025–2026)
+
+| Moment | Type | Date | Related Page |
+|--------|------|------|--------------|
+| First Portfolio Review | Practice review | **Fri Mar 6, 2026 – 17:00** | [portfolio/first-portfolio-review.md](portfolio/first-portfolio-review.md) |
+| Iteration 1 | Iteration snapshot | **Fri Mar 20, 2026 – 17:00** | [portfolio/iteration-1.md](portfolio/iteration-1.md) |
+| Iteration 2 | Iteration snapshot | **Fri Apr 17, 2026 – 17:00** | [portfolio/iteration-2.md](portfolio/iteration-2.md) |
+| Iteration 3 | Iteration snapshot | **Fri May 22, 2026 – 17:00** | [portfolio/iteration-3.md](portfolio/iteration-3.md) |
+| Final Delivery | Final delivery & assessment | **Thu Jun 18, 2026 – 17:00** | [portfolio/final-delivery-assessment.md](portfolio/final-delivery-assessment.md) |
+| Final Interview | Oral assessment | **Week 18** | [course-info/assessment.md](course-info/assessment.md) |
+| Assessment Committee | Final grading | **Week 19** | [course-info/assessment.md](course-info/assessment.md) |
 
 ## Project Repositories
 
@@ -116,7 +134,7 @@ The portfolio is the primary assessment artifact. It must:
 - Reference actual project work from the project repos
 - Be reviewed at each iteration checkpoint
 
-<!-- PRIORITY: Update with exact requirements from portfolio/portfolio-manual.md -->
+**Key portfolio files:** [portfolio/portfolio-manual.md](portfolio/portfolio-manual.md), [portfolio/creating-a-portfolio.md](portfolio/creating-a-portfolio.md), [portfolio/review-iterations.md](portfolio/review-iterations.md)
 
 ## DOT Framework (Research)
 
@@ -130,11 +148,9 @@ The course uses the DOT (Development Oriented Triangulation) Framework for resea
 
 Research documents should use multiple strategies from different categories (triangulation) to support conclusions.
 
-<!-- PRIORITY: Update with details from skills/professional/dot-framework.md -->
+**Details:** [skills/professional/dot-framework.md](skills/professional/dot-framework.md)
 
 ## Knowledge Base Structure
-
-Content extracted from Canvas is organized in these folders:
 
 | Folder | Contents |
 |--------|----------|
@@ -145,40 +161,41 @@ Content extracted from Canvas is organized in these folders:
 | `skills/professional/` | Professional skills guides (research, feedback, planning, etc.) |
 | `skills/software-development/` | Practical how-to guides for technical skills |
 | `jumpstart/` | First 2 weeks material |
-| `extra/` | Supplementary material |
+| `extra/` | Supplementary material (challenges, AI manifest, Student+) |
 
-## Content Extraction Priority
+## Quick Reference for Agents
 
-Files marked with status indicate whether Canvas content has been pasted in yet.
-Extract in this order for maximum benefit:
+Use this mapping when students ask common questions:
 
-### Priority 1 - Extract ASAP
-1. `course-info/assessment.md` - defines what success looks like
-2. `learning-outcomes/overview.md` - foundation everything maps to
-3. `course-info/overview.md` - course structure and expectations
-4. `course-info/individual-project.md` - primary assessment vehicle
-5. `portfolio/portfolio-manual.md` - how to build the portfolio
+| Question / Topic | Primary Files |
+|------------------|---------------|
+| **Learning outcomes** – what do I need to demonstrate? | `learning-outcomes/overview.md`, `learning-outcomes/detailed-criteria.md` |
+| **Portfolio** – how do I build it? | `portfolio/portfolio-manual.md`, `portfolio/creating-a-portfolio.md` |
+| **Portfolio dates** – when are reviews? | `portfolio/review-iterations.md` |
+| **Portfolio iterations** – what for each? | `portfolio/first-portfolio-review.md`, `portfolio/iteration-1.md`, `portfolio/iteration-2.md`, `portfolio/iteration-3.md`, `portfolio/final-delivery-assessment.md` |
+| **Assessment** – how am I graded? | `course-info/assessment.md` |
+| **Individual project** | `course-info/individual-project.md` |
+| **Group project** | `course-info/group-project.md` |
+| **Extra project / challenges** | `course-info/extra-project.md`, `extra/container-transport.md`, `extra/visitor-placement-tool.md` |
+| **SOLID principles** | `skills/software-development/design/solid-in-practice.md`, `resources/design/solid-principles.md` |
+| **Layered architecture** | `resources/design/layered-architecture.md` |
+| **Unit testing** | `skills/software-development/implementation/unit-testing-practice.md`, `skills/software-development/implementation/acceptance-unit-testing.md` |
+| **Dependency injection** | `skills/software-development/implementation/dependency-injection-aspnet.md` |
+| **Statefulness / sessions** | `skills/software-development/implementation/application-statefulness.md` |
+| **Research (DOT)** | `skills/professional/dot-framework.md`, `skills/professional/research.md` |
+| **Documentation** | `skills/professional/documentation.md` |
+| **Planning / iterations** | `skills/professional/planning-iterations.md` |
+| **Feedback** | `skills/professional/feedback.md` |
+| **AI usage** | `extra/generative-ai-manifest.md` |
 
-### Priority 2 - Extract in first 2 weeks
-6. `course-info/group-project.md`
-7. `portfolio/creating-a-portfolio.md`
-8. `portfolio/review-iterations.md`
-9. `skills/professional/dot-framework.md`
-10. `skills/professional/research-document-template.md`
-
-### Priority 3 - Extract as topics come up
-11+. Core technical resources (SOLID, layered architecture, OOP, unit testing, ASP.NET, DI, etc.)
-
-### Priority 4 - Extract when relevant
-Remaining files as needed throughout the semester.
-
-## How to Help This Student
+## How to Use This Repo with Agents
 
 1. **Always reference specific learning outcomes** when giving advice
-2. **Point to relevant knowledge base files** when explaining concepts
+2. **Point to relevant knowledge base files** when explaining concepts (use the Quick Reference above)
 3. **Apply SDE code standards** (SOLID, layered architecture, C# conventions) in all code help
 4. **Consider portfolio evidence** - suggest how work can demonstrate learning outcomes
 5. **Be practical** - this is HBO (applied sciences), focus on working software over theory
 6. **Check the project repos** for actual code context when helping with implementation
 7. **Use the DOT framework** when helping with research tasks
 8. **Respect the iteration cycle** - help plan work that fits the current iteration's goals
+9. **Link guidance:** Use local markdown when content exists here. **Canvas/Fontys URLs are fine** – primary users (students, teachers) have access to Fontys infrastructure and Canvas; use them when they add value (e.g. live discussions, assignments, Canvas-specific tools)

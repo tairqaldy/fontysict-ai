@@ -4,7 +4,7 @@
 
 Read code standards from CLAUDE.md in the knowledge base at `C:\Users\tairc\Documents\codespace\fontys-projects\second-semester-canvas-course-contents\`.
 
-Also reference these knowledge base files if they have content:
+Also reference these knowledge base files:
 - resources/design/layered-architecture.md
 - resources/design/oop-principles.md
 - resources/design/solid-principles.md
@@ -13,6 +13,7 @@ Also reference these knowledge base files if they have content:
 - skills/software-development/implementation/oop-in-practice.md
 - skills/software-development/implementation/dependency-injection-aspnet.md
 - skills/software-development/implementation/unit-testing-practice.md
+- skills/software-development/implementation/application-statefulness.md
 
 ## Task
 

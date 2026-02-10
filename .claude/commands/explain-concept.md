@@ -5,8 +5,9 @@
 Read the course context from CLAUDE.md in the knowledge base at `C:\Users\tairc\Documents\codespace\fontys-projects\second-semester-canvas-course-contents\`.
 
 Search the knowledge base in these directories for relevant content:
-- resources/
-- skills/
+- resources/ (analysis, design, implementation, manage-and-control)
+- skills/ (professional, software-development: analysis, design, implementation, manage-and-control)
+- learning-outcomes/detailed-criteria.md (for LO connections)
 
 ## Task
 

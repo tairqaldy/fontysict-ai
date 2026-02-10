@@ -42,7 +42,7 @@ If you think you don't need the workshops, you will not have enough material in 
 
 ✓Scaled to the extent necessary for your portfolio
 
-**📚 Resource Available:** See [Extra Challenges](../extra/README.md) for specific challenge options and guidance.
+**📚 Resource Available:** See [Extra Challenges](../extra/container-transport.md) and [Visitor Placement Tool](../extra/visitor-placement-tool.md) for specific challenge options and guidance.
 
 ### 🎓 Essential Guidance
 

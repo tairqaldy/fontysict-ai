@@ -5,6 +5,7 @@
 Read from the knowledge base at `C:\Users\tairc\Documents\codespace\fontys-projects\second-semester-canvas-course-contents\`:
 - CLAUDE.md
 - learning-outcomes/overview.md
+- learning-outcomes/detailed-criteria.md
 - course-info/assessment.md
 
 ## Task

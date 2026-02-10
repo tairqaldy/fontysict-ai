@@ -4,8 +4,10 @@
 
 Read from the knowledge base at `C:\Users\tairc\Documents\codespace\fontys-projects\second-semester-canvas-course-contents\`:
 - CLAUDE.md
-- portfolio/review-iterations.md
+- portfolio/review-iterations.md (date index: first review, iterations 1–3, final delivery)
+- portfolio/first-portfolio-review.md, portfolio/iteration-1.md, portfolio/iteration-2.md, portfolio/iteration-3.md, portfolio/final-delivery-assessment.md
 - learning-outcomes/overview.md
+- learning-outcomes/detailed-criteria.md
 - course-info/assessment.md
 - course-info/individual-project.md
 - course-info/group-project.md

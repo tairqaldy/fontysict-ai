@@ -6,11 +6,14 @@ I need help understanding and approaching an assignment for my Fontys ICT S2 SDE
 
 Read the course context from CLAUDE.md in this repository root.
 
-Also check these knowledge base files if they have content:
+Also check these knowledge base files:
 - course-info/assessment.md
 - learning-outcomes/overview.md
+- learning-outcomes/detailed-criteria.md
 - course-info/individual-project.md
 - course-info/group-project.md
+- course-info/extra-project.md
+- portfolio/review-iterations.md (for iteration dates)
 
 ## Task
 

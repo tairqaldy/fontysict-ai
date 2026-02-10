@@ -5,9 +5,11 @@
 Read course context from these files in the knowledge base repository at `C:\Users\tairc\Documents\codespace\fontys-projects\second-semester-canvas-course-contents\`:
 - CLAUDE.md
 - portfolio/portfolio-manual.md
-- portfolio/review-iterations.md
+- portfolio/review-iterations.md (date index and links to iterations)
 - portfolio/creating-a-portfolio.md
+- portfolio/first-portfolio-review.md, portfolio/iteration-1.md, portfolio/iteration-2.md, portfolio/iteration-3.md, portfolio/final-delivery-assessment.md
 - learning-outcomes/overview.md
+- learning-outcomes/detailed-criteria.md
 - course-info/assessment.md
 
 ## Task
