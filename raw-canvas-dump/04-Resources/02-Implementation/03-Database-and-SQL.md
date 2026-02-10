@@ -1,0 +1,89 @@
+# Database and SQL
+
+# 🗄️ Database and SQL
+
+Storing and retrieving data with relational databases
+
+## 🎯 Database Types: SQL vs NoSQL
+
+To store data, you generally use a database. Broadly speaking, there are two types: **relational databases** and  **non-relational databases** . Online, you often see the terms SQL and NoSQL, referring to the query language used to query the first type, but not the second.
+
+#### 🏗️ Relational Databases (SQL)
+
+Data stored in tables with relationships and keys
+
+**Examples:** MySQL, PostgreSQL, Microsoft SQL Server
+
+#### 📊 Non-Relational Databases (NoSQL)
+
+Data stored in key-value pairs or as documents
+
+**Examples:** MongoDB, CouchDB, Redis, Cassandra
+
+**💡 This Semester's Default Choice:** Since an RDBMS best aligns with the simple object models we will use, this is the  **Sensible Default** . Microsoft SQL Server integrates best with other components in the SD stack, such as ASP.NET MVC, which is why we prefer it.
+
+## 🔧 Setting up the Database
+
+SQL comes in two main variants that serve different purposes:
+
+#### 🏗️ Data Definition Language (DDL)
+
+Used to define and modify database structure (CREATE, DROP, ALTER)
+
+#### 📊 Data Manipulation Language (DML)
+
+Used to query and modify data (SELECT, INSERT, UPDATE, DELETE)
+
+### Database Creation Options:
+
+* **SQL Scripts:** Direct SQL statements for full control
+* **Visual Studio:** Database tools and designers
+* **Entity Framework (ORM):** Code-first approach (use only after understanding manual setup)
+
+**⚠️ Learning Path:** Object-Relational Mappers like Entity Framework can generate tables for you, but this provides less control over their structure. Only use them once you understand how to create databases manually!
+
+## 🔍 Querying the Database
+
+Once you have a database, you can store and retrieve data from it. This is done by writing queries (literally 'questions'). Here's a practical example:
+
+Example SQL Query:
+
+SELECT
+
+Name, Email, Age
+
+FROM
+
+Users
+
+WHERE
+
+Age > 18
+
+**💡 Query Explanation:** This query retrieves the Name, Email address, and Age of all rows in the Users table where the Age column contains a value greater than 18.
+
+There are many different query options available. You can learn and practice them extensively in SQL School. From your C# code, you can execute these queries on the database and display the results on the screen.
+
+## 🎯 Hands-On Practice
+
+**🎓 SQL School:** Master SQL fundamentals through interactive exercises and practice problems.
+
+[🚀 Start Learning SQL**Links to an external site.**](http://sqlschool.fhict.nl/)
+
+Visit SQL School to practice independently and master the basics of SQL through hands-on exercises.
+
+## 📚 Essential Resources
+
+### 🔧 Setup & Configuration
+
+* **Database Account:** [Self-Service portal**Links to an external site.**](https://selfservice.app.fhict.nl/) - Request a free SQL Server account
+* **Visual Studio Setup:** [Database setup guide**Links to an external site.**](https://docs.microsoft.com/en-us/visualstudio/data-tools/create-a-sql-database-by-using-a-designer?view=vs-2022) - Step-by-step database creation in Visual Studio
+* **Advanced:** [Code-first Entity Framework**Links to an external site.**](https://entityframework.net/ef-code-first) - Object-Relational Mapping approach
+
+### 🔗 Related Course Materials
+
+* [How to work with relational databases?](https://fhict.instructure.com/courses/15759/pages/how-to-work-with-relational-databases) - Complete database workflow
+* [Relational Database Design](https://fhict.instructure.com/courses/15759/pages/relational-database-design) - Design principles and best practices
+* [Database Implementation](https://fhict.instructure.com/courses/15759/pages/database-implementation) - From design to working database
+
+*Part of the Software Design & Engineering course | Fontys ICT*
