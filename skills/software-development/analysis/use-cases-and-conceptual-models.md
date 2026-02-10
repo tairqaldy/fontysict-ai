@@ -1,19 +1,34 @@
 # How can functional requirements be expressed as use cases and a conceptual model?
 
 > Source: Canvas > Software Development Skills > Analysis
-> Last updated: _not yet extracted_
-> Status: draft
+> Last updated: 2026-02-10
+> Status: complete
 
-## Content
-<!--
-  HOW TO FILL THIS FILE:
-  1. Open this page in Canvas (fhict.instructure.com)
-  2. Select all content on the page (Ctrl+A)
-  3. Paste it below this comment
-  4. Clean up formatting if needed (fix headers, lists, links)
-  5. Remove this instruction comment
-  6. Update "Last updated" date and set Status to "complete"
--->
+# 🗺️ From Requirements to Models
 
-## Key Takeaways
-<!-- After pasting content, note the 3-5 most important points for quick reference -->
+Transform functional requirements into use cases and conceptual models that everyone understands
+
+![1770714735306](images/1770714735306.png)
+
+**🎯 Workshop Goal:** Learn to create Use Cases and Conceptual Models that bridge the gap between stakeholder needs and technical implementation. No more swing surprises.
+
+## 🔧 Your Toolkit
+
+**🎭 Use Cases: The User's Story**
+
+Describe how users interact with the system to achieve their goals.
+
+* Focus on user goals and value delivery  
+* Written from the user's perspective  
+* Include main flow and alternative scenarios  
+* Bridge between business and technical requirements  
+
+**🏗️ Conceptual Models: The Data Structure**
+
+Visual representation of data entities and their relationships.
+
+* Show entities (things that matter)  
+* Define relationships between entities  
+* Specify attributes and constraints  
+* Create shared understanding of data structure  
+
