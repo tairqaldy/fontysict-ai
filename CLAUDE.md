@@ -170,6 +170,7 @@ Use this mapping when students ask common questions:
 | Question / Topic | Primary Files |
 |------------------|---------------|
 | **Learning outcomes** – what do I need to demonstrate? | `learning-outcomes/overview.md`, `learning-outcomes/detailed-criteria.md` |
+| **LO evidence** – what evidence to collect per LO, self-assessment, links? | `learning-outcomes/LO-evidence-guide.md` |
 | **Portfolio** – how do I build it? | `portfolio/portfolio-manual.md`, `portfolio/creating-a-portfolio.md` |
 | **Portfolio dates** – when are reviews? | `portfolio/review-iterations.md` |
 | **Portfolio iterations** – what for each? | `portfolio/first-portfolio-review.md`, `portfolio/iteration-1.md`, `portfolio/iteration-2.md`, `portfolio/iteration-3.md`, `portfolio/final-delivery-assessment.md` |

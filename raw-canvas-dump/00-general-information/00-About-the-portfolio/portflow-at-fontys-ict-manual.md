@@ -78,10 +78,8 @@ Structure your portfolio by creating collections within a section. Within a coll
  **📋 To Do:** * Create a collection for each project: **Your (Group) Project - `<Project Name>`**
 
 * If you have an individual project: **Individual project - `<Project Name>`**
-* Optionally, create a collection for non-curricular activities (MR participation, student association, etc.)
-
-![Collectie-1.png](https://fhict.instructure.com/courses/15759/files/2577008/preview)
-Example: a collection
+* Optionally, create a collection for non-curricular activities (MR participation, student association, etc.)![1770644133654](image/portflow-at-fontys-ict-manual/1770644133654.png)![Collectie-1.png](https://fhict.instructure.com/courses/15759/files/2577008/preview)
+  Example: a collection
 
 #### Create a collection
 
@@ -92,7 +90,7 @@ A new collection can be created from the Portflow home page:
 3. Give the collection a **name** (required) and a **subtitle**
 4. Click on **'Add'**
 
-![collecties aanmaken.gif](https://fhict.instructure.com/courses/15759/files/2577010/preview)
+![1770644150501](image/portflow-at-fontys-ict-manual/1770644150501.png)
 Example: steps to create a collection
 
 ### Goals
@@ -108,7 +106,7 @@ Through goals, you bring more structure within a collection. You can reflect the
 * Professional Standard
 * Personal Leadership
 
-![doelen aanmaken.gif](https://fhict.instructure.com/courses/15759/files/2577001/preview)
+![1770646047125](image/portflow-at-fontys-ict-manual/1770646047125.png)
 Example: steps to create a goal in a collection
 
 #### Create a goal
@@ -136,7 +134,7 @@ The collection description is the first thing readers encounter after the introd
 
 **💡 Tip:** Use references to supporting evidence in your text by typing @'name of the evidence piece'
 
-![SchermÂ_afbeelding 2025-01-31 om 10.21.34.png](https://fhict.instructure.com/courses/15759/files/2576985/preview)
+![1770646061102](image/portflow-at-fontys-ict-manual/1770646061102.png)
 Example: a collection description
 
 ### Products/Evidence
@@ -163,7 +161,7 @@ In your portfolio, you include products (evidence). Examples include: profession
 3. Select one or more goals and sub-goals to link the evidence
 4. Click on **'Add'**
 
-![nieuw bestand bewijs.gif](https://fhict.instructure.com/courses/15759/files/2577013/preview)
+![1770646071559](image/portflow-at-fontys-ict-manual/1770646071559.png)
 Example: steps to create an evidence
 
 #### Evidence description
@@ -174,7 +172,7 @@ In the evidence description, specify:
 * What the goal of the learning product is (Who did you create it for? What does it deliver?)
 * Why this learning product contributes to demonstrating the learning outcomes
 
-![Evidence description-1.png](https://fhict.instructure.com/courses/15759/files/2577012/preview)
+![1770646079713](image/portflow-at-fontys-ict-manual/1770646079713.png)
 Example: an evidence description
 
 #### Add Evidence versions
@@ -186,7 +184,7 @@ Add new versions of evidence to provide insight into your progress and received 
 3. Give a short **description** of what has changed
 4. Click on **'add'**
 
-![nieuwe versies.png](https://fhict.instructure.com/courses/15759/files/2577015/preview)
+![1770646087472](image/portflow-at-fontys-ict-manual/1770646087472.png)
 Example: steps to create an evidence version
 
 ## 2. Share your portfolio with others
@@ -217,13 +215,13 @@ You can share your portfolio in two ways:
 6. Configure privacy settings as needed
 7. Click on **'Send invitation'**
 
-![Shared with.png](https://fhict.instructure.com/courses/15759/files/2577018/preview)
+![1770646101899](image/portflow-at-fontys-ict-manual/1770646101899.png)
 Example: "Shared with" button on the introduction page
 
-![Share-1.png](https://fhict.instructure.com/courses/15759/files/2576978/preview)
+![1770646107377](image/portflow-at-fontys-ict-manual/1770646107377.png)
 Example: Share button within a collection
 
-![SchermÂ_afbeelding 2025-01-24 om 10.15.22.png](https://fhict.instructure.com/courses/15759/files/2576996/preview)
+![1770646117067](image/portflow-at-fontys-ict-manual/1770646117067.png)
 Example: an external sharing interface
 
 ## 3. Request feedback on your portfolio
@@ -244,7 +242,7 @@ You can send a **feedback request** to individuals who have access to your portf
 8. Add **attachments** or audio/video recordings if desired
 9. Click on **'send'**
 
-![request feedback.gif](https://fhict.instructure.com/courses/15759/files/2577002/preview)
+![1770646126886](image/portflow-at-fontys-ict-manual/1770646126886.png)
 Example: request feedback on your portfolio
 
 ## 4. Submit your portfolio
@@ -260,7 +258,7 @@ To submit a portfolio for your project plan, midterm review, concept portfolio a
 5. Assign a **name** and **description** to this snapshot
 6. Click **'view your copy'** to view the snapshot
 
-![snapshot-maken-2.gif](https://fhict.instructure.com/courses/15759/files/2576990/preview)
+![1770646133620](image/portflow-at-fontys-ict-manual/1770646133620.png)
 Example: create a snapshot
 
 ### Submit your portfolio
@@ -271,7 +269,7 @@ Example: create a snapshot
 4. Choose the **snapshot** you want to submit for this assignment
 5. Click on **'Submit assignment'**
 
-![Portflow - snapshot-1-1.png](https://fhict.instructure.com/courses/15759/files/2577016/preview)
+![1770646138613](image/portflow-at-fontys-ict-manual/1770646138613.png)
 Example: submit your portfolio
 
 ### Need help with Portflow?

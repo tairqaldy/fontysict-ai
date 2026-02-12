@@ -6,6 +6,7 @@ This repository is an **AI-ready knowledge base** for the Fontys ICT Semester 2 
 
 - **CLAUDE.md** – Master agent brief: learning outcomes, rubric, assessment dates, code standards, quick reference
 - **learning-outcomes/detailed-criteria.md** – Full LO definitions
+- **learning-outcomes/LO-evidence-guide.md** – Evidence types per LO, self-assessment, links (Git, Trello/Jira)
 - **portfolio/review-iterations.md** – Portfolio review dates
 
 ## Behavior
